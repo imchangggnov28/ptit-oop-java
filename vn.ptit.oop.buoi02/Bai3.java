@@ -1,3 +1,9 @@
+/**
+ * Họ và tên: Hoàng Thị Huyền Trang
+ * Mã sinh viên: N24DCCN083
+ * Lớp: D24CQCN01-N
+ * Ngày nộp: 22/08/2026
+*/
 import java.util.Scanner;
 public class Bai3 {
     public static void main (String[] args){

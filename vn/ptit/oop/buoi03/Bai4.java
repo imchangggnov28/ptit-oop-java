@@ -1,3 +1,4 @@
+package vn.ptit.oop.buoi03;
 public class Bai4{
     public static int max(int a, int b){
         return Math.max(a,b);
